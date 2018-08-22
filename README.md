@@ -3,4 +3,5 @@
 1.  [Week 1](/Week1/)
     - [Introduction to blockchain](/Week1/Introduction-to-Blockchain.md)
     - [History](/Week1/History.md)
-    - [Conceptualization-of-Blockchain.](/Week1/Conceptualization-of-Blockchain.md)
+    - [Architecture](/Week1/Architecture.md)
+    - [Conceptualization of Blockchain.](/Week1/Conceptualization-of-Blockchain.md)
