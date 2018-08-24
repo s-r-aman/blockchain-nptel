@@ -5,3 +5,4 @@
     - [History](/Week1/History.md)
     - [Architecture](/Week1/Architecture.md)
     - [Conceptualization of Blockchain.](/Week1/Conceptualization-of-Blockchain.md)
+    - [Basic Crypto Primitives - 1](\Week1\Basic-Crypto-Primitives-1.md)
