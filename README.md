@@ -10,3 +10,4 @@
 
 2.  [Week 2](/Week2/)
     - [Basic Crypto Primitives - 2](/Week2/Basic-Crypto-Primitives-2.md)
+    - [Bitcoin Basics - 1](/Week2/Bitcoin-Basics-1.md)
